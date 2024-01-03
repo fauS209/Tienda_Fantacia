@@ -1,0 +1,53 @@
+D:\c# Proyec\Tienda_Fantacia\Tienda_Fantacia\bin\Debug\Tienda_Fantacia.exe.config
+D:\c# Proyec\Tienda_Fantacia\Tienda_Fantacia\bin\Debug\Tienda_Fantacia.exe
+D:\c# Proyec\Tienda_Fantacia\Tienda_Fantacia\bin\Debug\Tienda_Fantacia.pdb
+D:\c# Proyec\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.csproj.AssemblyReference.cache
+D:\c# Proyec\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Properties.Resources.resources
+D:\c# Proyec\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.csproj.GenerateResource.cache
+D:\c# Proyec\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.csproj.CoreCompileInputs.cache
+D:\c# Proyec\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.exe
+D:\c# Proyec\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.pdb
+D:\c# Proyec\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Form3.resources
+D:\c# Proyec\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Inicio.resources
+D:\c# Proyec\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Tienda.resources
+D:\c# Proyec\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Bodega.resources
+D:\c# Proyec\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Menu.resources
+D:\c# Proyec\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Clientes.resources
+D:\c# Proyec\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Historial.resources
+D:\c# Proyec\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Producto.resources
+D:\c# Proyec\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Provedor.resources
+D:\c# Proyec\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Reportes.resources
+C:\Users\fausa\OneDrive\Escritorio\Base_Datos_FaurcioS\Tienda_Fantacia\Tienda_Fantacia\bin\Debug\Tienda_Fantacia.exe.config
+C:\Users\fausa\OneDrive\Escritorio\Base_Datos_FaurcioS\Tienda_Fantacia\Tienda_Fantacia\bin\Debug\Tienda_Fantacia.exe
+C:\Users\fausa\OneDrive\Escritorio\Base_Datos_FaurcioS\Tienda_Fantacia\Tienda_Fantacia\bin\Debug\Tienda_Fantacia.pdb
+C:\Users\fausa\OneDrive\Escritorio\Base_Datos_FaurcioS\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.csproj.AssemblyReference.cache
+C:\Users\fausa\OneDrive\Escritorio\Base_Datos_FaurcioS\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Clientes.resources
+C:\Users\fausa\OneDrive\Escritorio\Base_Datos_FaurcioS\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Historial.resources
+C:\Users\fausa\OneDrive\Escritorio\Base_Datos_FaurcioS\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Form3.resources
+C:\Users\fausa\OneDrive\Escritorio\Base_Datos_FaurcioS\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Producto.resources
+C:\Users\fausa\OneDrive\Escritorio\Base_Datos_FaurcioS\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Provedor.resources
+C:\Users\fausa\OneDrive\Escritorio\Base_Datos_FaurcioS\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Tienda.resources
+C:\Users\fausa\OneDrive\Escritorio\Base_Datos_FaurcioS\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Bodega.resources
+C:\Users\fausa\OneDrive\Escritorio\Base_Datos_FaurcioS\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Menu.resources
+C:\Users\fausa\OneDrive\Escritorio\Base_Datos_FaurcioS\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Properties.Resources.resources
+C:\Users\fausa\OneDrive\Escritorio\Base_Datos_FaurcioS\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.csproj.GenerateResource.cache
+C:\Users\fausa\OneDrive\Escritorio\Base_Datos_FaurcioS\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.csproj.CoreCompileInputs.cache
+C:\Users\fausa\OneDrive\Escritorio\Base_Datos_FaurcioS\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.exe
+C:\Users\fausa\OneDrive\Escritorio\Base_Datos_FaurcioS\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.pdb
+C:\Users\fausa\OneDrive\Escritorio\Fauricio_Salazar\Tienda_Fantacia\Tienda_Fantacia\bin\Debug\Tienda_Fantacia.exe.config
+C:\Users\fausa\OneDrive\Escritorio\Fauricio_Salazar\Tienda_Fantacia\Tienda_Fantacia\bin\Debug\Tienda_Fantacia.exe
+C:\Users\fausa\OneDrive\Escritorio\Fauricio_Salazar\Tienda_Fantacia\Tienda_Fantacia\bin\Debug\Tienda_Fantacia.pdb
+C:\Users\fausa\OneDrive\Escritorio\Fauricio_Salazar\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.csproj.AssemblyReference.cache
+C:\Users\fausa\OneDrive\Escritorio\Fauricio_Salazar\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Clientes.resources
+C:\Users\fausa\OneDrive\Escritorio\Fauricio_Salazar\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Historial.resources
+C:\Users\fausa\OneDrive\Escritorio\Fauricio_Salazar\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Form3.resources
+C:\Users\fausa\OneDrive\Escritorio\Fauricio_Salazar\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Producto.resources
+C:\Users\fausa\OneDrive\Escritorio\Fauricio_Salazar\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Provedor.resources
+C:\Users\fausa\OneDrive\Escritorio\Fauricio_Salazar\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Tienda.resources
+C:\Users\fausa\OneDrive\Escritorio\Fauricio_Salazar\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Bodega.resources
+C:\Users\fausa\OneDrive\Escritorio\Fauricio_Salazar\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Menu.resources
+C:\Users\fausa\OneDrive\Escritorio\Fauricio_Salazar\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.Properties.Resources.resources
+C:\Users\fausa\OneDrive\Escritorio\Fauricio_Salazar\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.csproj.GenerateResource.cache
+C:\Users\fausa\OneDrive\Escritorio\Fauricio_Salazar\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.csproj.CoreCompileInputs.cache
+C:\Users\fausa\OneDrive\Escritorio\Fauricio_Salazar\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.exe
+C:\Users\fausa\OneDrive\Escritorio\Fauricio_Salazar\Tienda_Fantacia\Tienda_Fantacia\obj\Debug\Tienda_Fantacia.pdb
